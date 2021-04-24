@@ -1,27 +1,11 @@
-# SPAAngularDIO
+Representa a criação da Interface Inicial de um sistema de biblioteca universitária usando uma Single Page Aplication através do Angular.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
+Os objetivos desse projeto foram:
 
-## Development server
+Identificar como usar o Angular para criação de uma Single Page Application SPA Entender o uso de módulos e componentes via criação de componentes e associação com os do Angular Material Entender os hooks de inicialização Entender as expressões Interpolation, One-Way-Data-Bind, Two-Way-Data-Bind e Property-Bind
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Links úteis:
 
-## Code scaffolding
+How to get start with Angular: https://angular.io/docs 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+How to get start with Angular Material: https://material.angular.io/guide/getting-started
